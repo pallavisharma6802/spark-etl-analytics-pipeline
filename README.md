@@ -217,6 +217,3 @@ This project was completed as part of a distributed systems and big data analyti
 - Machine learning pipeline development
 - Container orchestration with Docker
 
-## License
-
-This project is for educational purposes only.
